@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/body {.css">
+    <div class="groot"></div>
+    <div class="groot2"></div>
+    <div class="groot3"></div>
+    <div class="groot4"></div>
+
+    <div class="klein"></div>
+    <div class="klein2"></div>
+    <div class="klein3"></div>
+    
+</head>
+<body>
+    <img src="images/galaxy.jpg" style="width:750px;height:500px;"
+    margin-left="200px">
+
+    
+</body>
+</html>
